@@ -85,25 +85,27 @@ This project uses several Python libraries for data processing, machine learning
 - You can refer this [link for online App](https://mental-health-chatbot-monisha-r.streamlit.app/)
 
 if you want to deploy it offline follow the below steps
+
   
 1. **Clone the Repository**:
+  Download the reposotory, extract, open the command prompt and paste the below command with the directory(Folder in which the files are present) of the app
    ```bash
    cd your/directory/path
    ```
 
-2. **Install Required Libraries**:
+3. **Install Required Libraries**:
    Install the dependencies using pip:
    ```bash
    pip install -r requirements.txt
    ```
    
-3. **Install Required Libraries**:
+4. **Install Required Libraries**:
    Install the dependencies using pip:
    ```bash
    streamlit run Mental_Helath_Chatbot.py
    ```
 
-4. **Prepare Data**:
+5. **Prepare Data**:
    - Ensure `intents.json` and `order_data.xlsx` files are in the root directory for the chatbot and order management system to function correctly.
 
 ---
