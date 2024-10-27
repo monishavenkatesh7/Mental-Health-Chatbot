@@ -88,7 +88,7 @@ if you want to deploy it offline follow the below steps
 
   
 1. **Clone the Repository**:
-  Download the reposotory, extract, open the command prompt and paste the below command with the directory(Folder in which the files are present) of the app
+  Download the repository, extract, open the command prompt and paste the below command with the directory(Folder in which the files are present) of the app
    ```bash
    cd your/directory/path
    ```
@@ -102,7 +102,7 @@ if you want to deploy it offline follow the below steps
 4. **Install Required Libraries**:
    Install the dependencies using pip:
    ```bash
-   streamlit run Mental_Helath_Chatbot.py
+   streamlit run Mental_Health_Chatbot.py
    ```
    Now you would have got a link in the cmd click on that link you will be directly taken to the app in the default browser
 
