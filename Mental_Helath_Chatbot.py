@@ -12,9 +12,9 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer, PorterStemmer
 import re
 
-# # Download required NLTK resources
-# nltk.download('stopwords')
-# nltk.download('wordnet')
+# Download required NLTK resources
+nltk.download('stopwords')
+nltk.download('wordnet')
 
 
 # Function to preprocess words: lowercasing, removing stopwords, lemmatizing, stemming
