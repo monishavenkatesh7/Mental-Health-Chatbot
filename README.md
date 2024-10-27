@@ -81,16 +81,23 @@ This project uses several Python libraries for data processing, machine learning
 
 ## Setup and Installation
 
-1. **Clone the Repository**:
+1. **online App**:
+- You can refer this [link for online App](https://mental-health-chatbot-monisha-r.streamlit.app/)
+3. **Clone the Repository**:
    ```bash
-   git clone https://github.com/monishavenkatesh7/Mental-Health-Chatbot
-   cd Mental-Health-Chatbot
+   cd your/directory/path
    ```
 
-2. **Install Required Libraries**:
+4. **Install Required Libraries**:
    Install the dependencies using pip:
    ```bash
    pip install -r requirements.txt
+   ```
+   
+2. **Install Required Libraries**:
+   Install the dependencies using pip:
+   ```bash
+   streamlit run Mental_Helath_Chatbot.py
    ```
 
 3. **Prepare Data**:
