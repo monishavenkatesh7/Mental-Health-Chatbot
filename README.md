@@ -83,7 +83,7 @@ This project uses several Python libraries for data processing, machine learning
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Mental-Health-Chatbot
+   git clone https://github.com/monishavenkatesh7/Mental-Health-Chatbot
    cd Mental-Health-Chatbot
    ```
 
