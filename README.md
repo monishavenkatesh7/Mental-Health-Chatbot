@@ -82,7 +82,7 @@ This project uses several Python libraries for data processing, machine learning
 ## Setup and Installation
 
 **online App**:
-- You can refer this [link for online App](https://mental-health-chatbot-monisha-r.streamlit.app/)
+- You can refer this [link for online App](https://mental-health-chatbot-monishar.streamlit.app/)
 
 if you want to deploy it offline follow the below steps
 
