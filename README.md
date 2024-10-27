@@ -104,6 +104,7 @@ if you want to deploy it offline follow the below steps
    ```bash
    streamlit run Mental_Helath_Chatbot.py
    ```
+   Now you would have got a link in the cmd click on that link you will be directly taken to the app in the default browser
 
 5. **Prepare Data**:
    - Ensure `intents.json` and `order_data.xlsx` files are in the root directory for the chatbot and order management system to function correctly.
