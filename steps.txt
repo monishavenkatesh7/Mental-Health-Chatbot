@@ -1,0 +1,1 @@
+1. We gave some list of key words if the keywords matches that ti will show the respecive answer else it will show which ever matches with the intents json
